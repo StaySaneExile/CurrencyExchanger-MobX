@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CurrencyExchanger-MobX/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/CurrencyExchanger-MobX/static/js/main.fce28a48.chunk.js",
+    "main.js.map": "/CurrencyExchanger-MobX/static/js/main.fce28a48.chunk.js.map",
+    "runtime-main.js": "/CurrencyExchanger-MobX/static/js/runtime-main.a469d911.js",
+    "runtime-main.js.map": "/CurrencyExchanger-MobX/static/js/runtime-main.a469d911.js.map",
+    "static/js/2.9165ebe7.chunk.js": "/CurrencyExchanger-MobX/static/js/2.9165ebe7.chunk.js",
+    "static/js/2.9165ebe7.chunk.js.map": "/CurrencyExchanger-MobX/static/js/2.9165ebe7.chunk.js.map",
+    "index.html": "/CurrencyExchanger-MobX/index.html",
+    "precache-manifest.4596962a0afd426e93520b3a50e817ac.js": "/CurrencyExchanger-MobX/precache-manifest.4596962a0afd426e93520b3a50e817ac.js",
+    "service-worker.js": "/CurrencyExchanger-MobX/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/CurrencyExchanger-MobX/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.9165ebe7.chunk.js.LICENSE.txt": "/CurrencyExchanger-MobX/static/js/2.9165ebe7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a469d911.js",
+    "static/js/2.9165ebe7.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.fce28a48.chunk.js"
+  ]
+}
